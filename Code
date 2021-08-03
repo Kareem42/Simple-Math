@@ -1,14 +1,13 @@
-// This project is to solve simple math problems, with constructors,
-// using addition, subtraction, multiplication, division, and remainder.
-// There is nothing complex nor complicated about this project. It just shows 
-// how I created a simple project for common every day math.
+/* This project is to solve simple math problems, with constructors,
+  using addition, subtraction, multiplication, division, and remainder.
+  There is nothing complex nor complicated about this project. It just shows 
+  how I created a simple project for common every day math. */
 
 package Practice;
 
 public class SimpleMath {
-	int x;
-	int y;
-	int z;
+	int x, y z;
+	
 		
 	// This is the only constructor I will use with the arguments for global variables x, y, z.
 	SimpleMath(int x, int y, int z){
